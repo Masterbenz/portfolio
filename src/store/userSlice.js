@@ -24,7 +24,8 @@ const initialState = {
     lightTextDesc: true,
     topLine: 'About Me',
     headline: myUser ? myUser.displayName : 'cherdpong puengtuean',
-    description: myUser? myUser.statusMessage :`Hello, my name is Cherdpong Pungthuan, I'm27 years old, my nickname is Benz. I like programming and playing moba games, my programming experience is more than 3 years and my experience of playing moba games is more than 10 years. 
+    description: myUser? myUser.statusMessage :`Hello, my name is CHERDPONG PUENGTUEAN, I'm 28 years old, my nickname is Benz. I'm Full Stack Developer  I must have more than 4 years experience in developing 
+    Web Application or Application.
     ` ,
     buttonLabel: 'Get Start' ,
     imgStart: true,
