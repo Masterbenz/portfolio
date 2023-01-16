@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "../ButtonElement";
-import pdf from '../../img/Cherdpong_puengtuean_-_Full_Stack_Developer.pdf'
+import pdf from '../../img/CHERDPONG_PUENGTUEAN_DEV.pdf'
 import {
   InfoContainer,
   InfoWrapper,
